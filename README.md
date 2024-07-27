@@ -2,7 +2,7 @@
 
 🥇 Download Link : https://github.com/Scriptez1/RedXBluTools/releases/tag/RedXBluTools
 
-# 💾 RedXBluCracker
+# 💾 RedXBluCrTools
 BluTV Allows You to Break, Delete, and Do More Things on Your Pins in Their Profiles. -|- BluTV Profillerindeki Pinlerinizi Kırmanızı, Silmenizi Ve Daha Fazla Şeyleri Yapmanızı Sağlar.
 ```
 ██████╗░ ███████╗ ██████╗░ ██╗░░██╗
